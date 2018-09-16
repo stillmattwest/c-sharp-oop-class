@@ -681,28 +681,30 @@
     ]
   },
   "packageFolders": {
-    "/home/matt/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\still\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matt/Documents/Code/c-sharp-oop-class/Mod1SA/Mod1SA.csproj",
+      "projectUniqueName": "c:\\Users\\still\\Documents\\Code\\dotnet\\c-sharp-oop-class\\Mod1SA\\Mod1SA.csproj",
       "projectName": "Mod1SA",
-      "projectPath": "/home/matt/Documents/Code/c-sharp-oop-class/Mod1SA/Mod1SA.csproj",
-      "packagesPath": "/home/matt/.nuget/packages/",
-      "outputPath": "/home/matt/Documents/Code/c-sharp-oop-class/Mod1SA/obj/",
+      "projectPath": "c:\\Users\\still\\Documents\\Code\\dotnet\\c-sharp-oop-class\\Mod1SA\\Mod1SA.csproj",
+      "packagesPath": "C:\\Users\\still\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\still\\Documents\\Code\\dotnet\\c-sharp-oop-class\\Mod1SA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/matt/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\still\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
