@@ -20,3 +20,14 @@
 /home/matt/Documents/Code/c-sharp-oop-class/Module2/obj/Debug/netcoreapp2.1/Module2.AssemblyInfo.cs
 /home/matt/Documents/Code/c-sharp-oop-class/Module2/obj/Debug/netcoreapp2.1/Module2.dll
 /home/matt/Documents/Code/c-sharp-oop-class/Module2/obj/Debug/netcoreapp2.1/Module2.pdb
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\bin\Debug\netcoreapp2.1\Module2.deps.json
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\bin\Debug\netcoreapp2.1\Module2.runtimeconfig.json
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\bin\Debug\netcoreapp2.1\Module2.runtimeconfig.dev.json
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\bin\Debug\netcoreapp2.1\Module2.dll
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\bin\Debug\netcoreapp2.1\Module2.pdb
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\obj\Debug\netcoreapp2.1\Module2.csprojAssemblyReference.cache
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\obj\Debug\netcoreapp2.1\Module2.csproj.CoreCompileInputs.cache
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\obj\Debug\netcoreapp2.1\Module2.AssemblyInfoInputs.cache
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\obj\Debug\netcoreapp2.1\Module2.AssemblyInfo.cs
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\obj\Debug\netcoreapp2.1\Module2.dll
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Module2\obj\Debug\netcoreapp2.1\Module2.pdb
