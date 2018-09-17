@@ -4,4 +4,9 @@ public class Teacher{
     public string FirstName { get; set; }
 
     public List<string>Subjects = new List<string>();
+
+    public Teacher(string fn, string ln){
+        LastName = ln;
+        FirstName = fn;
+    }
 }

@@ -10,6 +10,8 @@ public class Student{
 
     public Student(string fn, string ln){
         ++StudentCount;
+        LastName = ln;
+        FirstName = fn;
     }
 
 }
