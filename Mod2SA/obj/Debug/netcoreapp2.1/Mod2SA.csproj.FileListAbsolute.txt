@@ -1,0 +1,11 @@
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\obj\Debug\netcoreapp2.1\Mod2SA.csprojAssemblyReference.cache
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\obj\Debug\netcoreapp2.1\Mod2SA.csproj.CoreCompileInputs.cache
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\obj\Debug\netcoreapp2.1\Mod2SA.AssemblyInfoInputs.cache
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\obj\Debug\netcoreapp2.1\Mod2SA.AssemblyInfo.cs
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\bin\Debug\netcoreapp2.1\Mod2SA.deps.json
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\bin\Debug\netcoreapp2.1\Mod2SA.runtimeconfig.json
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\bin\Debug\netcoreapp2.1\Mod2SA.runtimeconfig.dev.json
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\bin\Debug\netcoreapp2.1\Mod2SA.dll
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\bin\Debug\netcoreapp2.1\Mod2SA.pdb
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\obj\Debug\netcoreapp2.1\Mod2SA.dll
+C:\Users\still\Documents\Code\dotnet\c-sharp-oop-class\Mod2SA\obj\Debug\netcoreapp2.1\Mod2SA.pdb
